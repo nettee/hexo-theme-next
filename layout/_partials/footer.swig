@@ -7,6 +7,8 @@
   </span>
   <span class="author" itemprop="copyrightHolder">{{ theme.footer.copyright || config.author }}</span>
 
+  &nbsp; <a href="http://www.beian.gov.cn">苏ICP备2021005171号-1</a>
+
   {% if theme.post_wordcount.totalcount %}
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
